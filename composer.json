@@ -1,0 +1,11 @@
+{
+    "name": "dmmarmol/featured-post",
+    "description": "A featured-post fork from @ssovit",
+    "authors": [
+        {
+            "name": "Diego Martín Mármol",
+            "email": "diegomartinmarmol@gmail.com"
+        }
+    ],
+    "require": {}
+}
